@@ -1,0 +1,101 @@
+,id,originalTitle,type,isAdult,releaseDate,runtimeMinutes,averageRating
+0,tt27706593,The Rivals of Amziah King,movie,False,2025-03-10,130.0,8.0
+1,tt21103218,The Lost Bus,movie,False,2025-10-03,130.0,6.8
+2,tt31937790,Superhuman Body: World of Medical Marvels,movie,False,2024-04-12,40.0,6.9
+3,tt27590028,The Oscars,tvSpecial,False,2024-03-10,157.0,6.7
+4,tt23219702,2023 CMT Music Awards,tvSpecial,False,,132.0,5.9
+5,tt29580199,Unsolved Mysteries: Behind the Legacy,movie,False,2023-10-05,55.0,7.5
+6,tt10814036,Agent Elvis,tvSeries,False,2023-03-17,,6.8
+7,tt18967390,Deep in the Heart: A Texas Wildlife Story,movie,False,2022-06-03,101.0,7.6
+8,tt13819950,Stephen A's World,tvSeries,False,2021-01-11,,4.7
+9,tt14477048,Oscars: Into the Spotlight,tvSpecial,False,,,5.6
+10,tt12688170,The Kids Tonight Show,tvSeries,False,2021-10-14,,5.2
+11,tt6467266,Sing 2,movie,False,2021-12-22,110.0,7.3
+12,tt12179810,The Anytime Show with Mister H. I.,tvSeries,False,2020-04-17,,5.8
+13,tt12599288,Uncomfortable Conversations with a Black Man,tvMiniSeries,False,2020-06-03,,6.6
+14,tt11358806,Cup of Joe,tvSeries,False,2020-04-27,,7.4
+15,tt13308412,Drew & A,tvSeries,False,2020-10-24,,4.6
+16,tt10171532,The Oprah Conversation,tvSeries,False,2020-07-30,,4.0
+17,tt9821508,IMDb at SXSW,tvSeries,False,2019-03-08,,6.5
+18,tt6511932,The Beach Bum,movie,False,2019-03-29,95.0,5.5
+19,tt6476140,Serenity,movie,False,2019-01-25,106.0,5.4
+20,tt8367814,The Gentlemen,movie,False,2020-01-24,113.0,7.8
+21,tt9398640,Between Two Ferns: The Movie,movie,False,2019-09-20,82.0,6.1
+22,tt11568358,eTalk Presents: TIFF 2018 presented by Bell,tvMiniSeries,False,2018-09-09,,
+23,tt8027544,The Oscars Opening Ceremony: Live from the Red Carpet,tvSpecial,False,,90.0,8.0
+24,tt4537896,White Boy Rick,movie,False,2018-09-14,111.0,6.5
+25,tt10452542,Harvey Can't Mess with Texas,tvSpecial,False,,90.0,
+26,tt6391108,Big Fan,tvSeries,False,2017-01-09,,4.9
+27,tt3180122,John G. Avildsen: King of the Underdogs,movie,False,2017-08-01,78.0,7.6
+28,tt6634050,The Envelope,tvMiniSeries,False,2017-02-08,,6.0
+29,tt7770020,U2 at the BBC,tvMovie,False,,60.0,7.4
+30,tt1648190,The Dark Tower,movie,False,2017-08-04,95.0,5.6
+31,tt32028245,The Actor's Side with Pete Hammond,tvSeries,False,,,
+32,tt6408336,Rock the Troops,tvSpecial,False,,,5.1
+33,tt6198486,The 50th Annual CMA Awards,tvSpecial,False,,180.0,7.6
+34,tt5816346,Stand Up to Cancer,tvSpecial,False,,60.0,6.4
+35,tt3470600,Sing,movie,False,2016-12-21,108.0,7.1
+36,tt4302938,Kubo and the Two Strings,movie,False,2016-08-19,101.0,7.7
+37,tt1800302,Gold,movie,False,2017-01-27,120.0,6.7
+38,tt1124037,Free State of Jones,movie,False,2016-06-24,139.0,6.9
+39,tt11859078,The American Cinematheque Tribute to Reese Witherspoon,tvSpecial,False,,,
+40,tt4459236,The Friars Club Super Bowl Roast of Terry Bradshaw,tvSpecial,False,,,7.8
+41,tt5087172,Think It Up,tvSpecial,False,,,
+42,tt5070048,IMDb Asks,tvSeries,False,2015-10-01,,7.0
+43,tt3450900,The Sea of Trees,movie,False,2016-08-26,110.0,6.1
+44,tt32246098,Bustle: YouTube Channel,tvSeries,False,,,
+45,tt3410698,The 2014 Film Independent Spirit Awards,tvSpecial,False,,,6.2
+46,tt4172224,Interstellar: Nolan's Odyssey,tvMovie,False,,23.0,7.0
+47,tt4415360,The Science of Interstellar,movie,False,2015-03-31,51.0,7.1
+48,tt0816692,Interstellar,movie,False,2014-11-07,169.0,8.7
+49,tt2356777,True Detective,tvSeries,False,2014-01-12,,8.8
+50,tt3216832,Secret Lives of the Super Rich,tvSeries,False,2013-09-25,,6.1
+51,tt3391950,The Hollywood Reporter in Focus,tvSeries,False,2013-12-29,,6.8
+52,tt3281320,The Hollywood Reporter Roundtables,tvMiniSeries,False,2013-12-22,,6.1
+53,tt0790636,Dallas Buyers Club,movie,False,2013-11-22,117.0,7.9
+54,tt0993846,The Wolf of Wall Street,movie,False,2013-12-25,180.0,8.2
+55,tt2185933,IC Places Hollywood,tvSeries,False,2012-01-20,,5.5
+56,tt1725029,Man in the Glass: The Dale Brown Story,movie,False,2012-05-08,82.0,7.4
+57,tt2276210,The Hollywood Fast Lane,tvSeries,False,2012-06-08,,6.2
+58,tt2226228,A Moment With,tvSeries,False,2012-03-01,,4.6
+59,tt1915581,Magic Mike,movie,False,2012-06-29,110.0,6.1
+60,tt1935179,Mud,movie,False,2013-05-10,130.0,7.4
+61,tt1496422,The Paperboy,movie,False,2012-10-17,107.0,5.7
+62,tt2132638,Close Up,tvSeries,False,,,6.5
+63,tt1625351,The 83rd Annual Academy Awards,tvSpecial,False,,194.0,6.3
+64,tt1189340,The Lincoln Lawyer,movie,False,2011-03-18,118.0,7.3
+65,tt1704573,Bernie,movie,False,2012-06-22,104.0,6.8
+66,tt1726669,Killer Joe,movie,False,2012-06-29,102.0,6.7
+67,tt1316064,Made in China,movie,False,2009-03-15,87.0,5.7
+68,tt0821640,Ghosts of Girlfriends Past,movie,False,2009-05-01,100.0,5.8
+69,tt0770752,Fool's Gold,movie,False,2008-02-08,112.0,5.7
+70,tt0976247,"Surfer, Dude",movie,False,2008-09-05,85.0,4.6
+71,tt6282514,The Role That Changed My Life,tvSeries,False,2007-10-29,,3.9
+72,tt0934911,MovieReal: We Are Marshall,tvMovie,False,,30.0,7.8
+73,tt0950474,What It Takes,tvSeries,False,2006-09-24,,6.5
+74,tt0800104,Keith Barry: Extraordinary,tvMovie,False,,60.0,7.7
+75,tt0875887,Fuse Celebrity Playlist,tvSeries,False,2006-09-21,,3.6
+76,tt0758794,We Are Marshall,movie,False,2006-12-22,131.0,7.1
+77,tt0427229,Failure to Launch,movie,False,2006-03-10,97.0,5.7
+78,tt0450351,My Crazy Life,tvSeries,False,2005-03-16,,7.0
+79,tt0478966,Absolute Evel: The Evel Knievel Story,tvMovie,False,,95.0,7.1
+80,tt0847883,Making Dazed,movie,False,2005-09-18,50.0,7.7
+81,tt0318649,Sahara,movie,False,2005-04-08,124.0,6.1
+82,tt0417217,Two for the Money,movie,False,2005-10-07,122.0,6.2
+83,tt0356622,Frat Boys,tvMovie,False,,120.0,5.4
+84,tt0361185,Freedom: A History of US,tvSeries,False,2003-01-12,,5.7
+85,tt0251127,How to Lose a Guy in 10 Days,movie,False,2003-02-07,116.0,6.5
+86,tt1058545,The Lost Dinosaurs of Egypt,tvMovie,False,,120.0,6.7
+87,tt0376434,Tinseltown TV,tvSeries,False,2003-08-02,,4.4
+88,tt0316768,Tiptoes,movie,False,2004-01-16,90.0,4.2
+89,tt0253556,Reign of Fire,movie,False,2002-07-12,101.0,6.2
+90,tt0268690,Thirteen Conversations About One Thing,movie,False,2002-07-05,104.0,7.0
+91,tt0209475,The Wedding Planner,movie,False,2001-01-26,103.0,5.4
+92,tt0264616,Frailty,movie,False,2002-04-12,100.0,7.2
+93,tt5032110,Nulle part ailleurs: midi,tvSeries,False,,,6.8
+94,tt0141926,U-571,movie,False,2000-04-21,116.0,6.6
+95,tt0131369,EDtv,movie,False,1999-03-26,122.0,6.1
+96,tt0287789,Waking in Mississippi,movie,False,1998-06-08,60.0,7.5
+97,tt0773260,Bravo Profiles: The Entertainment Business,tvMiniSeries,False,1998-03-01,,6.5
+98,tt0120769,The Newton Boys,movie,False,1998-03-27,122.0,6.1
+99,tt0118607,Amistad,movie,False,1997-12-25,155.0,7.3
